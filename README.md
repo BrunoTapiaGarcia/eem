@@ -8,3 +8,6 @@
 
 Morelia
 ![Descripción de la imagen](116e2f55-e23d-4770-bbf2-c7df1cfa5101.JPG)
+
+**Star Medica**
+![Descripción de la imagen](IMG_8853.PNG)
