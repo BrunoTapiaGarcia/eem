@@ -1,8 +1,8 @@
-# EEM
+# EEM Projects
 
 <a href="https://brunotapiagarcia.github.io/Regression-Model/" >Predicting Bike Rentals with Regression Models</a>
-**Showroom**
 
+**EEM Showroom**
 ![Descripción de la imagen](Foto-de-Quirofano-Multiespecialidad-Showroom-EEM-Especialistas-de-Equipo-Medico-em.com_.mx_.png)
 
 
@@ -14,3 +14,6 @@
 
 **Beneficiencia Española**
 ![Descripción de la imagen](Foto-de-Quirofano-MultiespecialidadLa-Bene-San-Luis-EEM-Especialistas-de-Equipo-Medico-em.com_.mx_.png)
+
+**First High-Specialty Perinatal Surgery Clinic in Mexico, Instituto Nacional de Perinatología**
+![Descripción de la imagen](IMG_8854.PNG)
