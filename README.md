@@ -6,7 +6,7 @@
 **Star Medica**
 ![Descripción de la imagen](IMG_8853.PNG)
 
-**Live Streaming Surgery, Beneficiencia Española**
+**Live Streaming Surgery Preparation, Beneficiencia Española**
 ![Descripción de la imagen](Foto-de-Quirofano-MultiespecialidadLa-Bene-San-Luis-EEM-Especialistas-de-Equipo-Medico-em.com_.mx_.png)
 
 **First High-Specialty Perinatal Surgery Clinic in Mexico, Instituto Nacional de Perinatología**
