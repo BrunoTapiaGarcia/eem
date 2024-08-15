@@ -1,5 +1,7 @@
 # EEM Projects
 
+EEM has successfully innovated within the specialized niche of operating room integration, with over 200 installations in Mexico’s most prestigious medical institutions. This achievement makes EEM one of the leading companies in operating room installations across the continent. The company is driven by a clear mission to transform surgical spaces in Mexico and Latin America into multidisciplinary rooms equipped with the most advanced technology available, including marLED X surgical lamps, 4K FSN monitors, and Schaerer surgical tables, enabling the performance of any high-specialty procedure.
+
 **EEM Showroom**
 ![Descripción de la imagen](Foto-de-Quirofano-Multiespecialidad-Showroom-EEM-Especialistas-de-Equipo-Medico-em.com_.mx_.png)
 
